@@ -1,6 +1,7 @@
 # bitmex
 
 [![NPM Package](https://img.shields.io/npm/v/bitmex.svg?style=flat-square)](https://www.npmjs.org/package/bitmex)
+[![Dev Dependencies](https://img.shields.io/david/thofmann/bitmex.svg?style=flat-square)](https://www.npmjs.org/package/bitmex)
 
 A node.js wrapper for the BitMEX Bitcoin derivatives exchange
 
