@@ -1,4 +1,4 @@
-# bitmex-websocket
+# bitmex
 
 [![NPM Package](https://img.shields.io/npm/v/bitmex.svg?style=flat-square)](https://www.npmjs.org/package/bitmex)
 

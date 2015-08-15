@@ -1,6 +1,6 @@
 {
   "name": "bitmex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node.js wrapper for the BitMEX Bitcoin derivatives exchange",
   "author": "Trevin Hofmann <trevinhofmann@gmail.com>",
   "main": "index.js",
