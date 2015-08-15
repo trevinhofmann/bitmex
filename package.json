@@ -1,7 +1,7 @@
 {
   "name": "bitmex",
-  "version": "0.0.3",
-  "description": "A node.js wrapper for the BitMEX Bitcoin derivatives exchange",
+  "version": "0.0.4",
+  "description": "An unofficial node.js wrapper for the BitMEX Bitcoin derivatives exchange",
   "author": "Trevin Hofmann <trevinhofmann@gmail.com>",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,7 @@
     "exchange"
   ],
   "dependencies": {
-    "bitmex-swagger": "0.0.5",
-    "bitmex-websocket": "0.0.4"
+    "bitmex-swagger": "0.0.6",
+    "bitmex-websocket": "0.0.5"
   }
 }
