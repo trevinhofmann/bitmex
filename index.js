@@ -10,8 +10,8 @@ module.exports = function(callback) {
             callback({
                 swagger: swagger,
                 websocket: websocket
-            })
-        })
-    })
+            });
+        });
+    });
 
 };
